@@ -1,0 +1,22 @@
+# Виртуальное окружение
+myenv/
+.env/
+
+# Картинки
+*.jpg
+*.jpeg
+*.png
+image/
+
+# Временные файлы
+*.pyc
+__pycache__/
+
+# Тестовые файлы
+1.html
+test*.py
+тест*.py
+*test*.py
+
+# Настройки VS Code
+.vscode/
